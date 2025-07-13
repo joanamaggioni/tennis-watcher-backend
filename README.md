@@ -21,6 +21,7 @@ Backend RESTful API para a Plataforma de Tênis, construído com Node.js e Expre
 - Clone este repositório: git clone git@github.com:joanamaggioni/tennis-watcher-backend.git
 - Entre na pasta do backend e instale as dependências: npm install
 - Inicie o servidor: npm start
+
 O servidor rodará em http://localhost:5000
 
 ## Endpoints principais
