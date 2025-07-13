@@ -26,9 +26,13 @@ O servidor rodará em http://localhost:5000
 
 ## Endpoints principais
 POST /auth/login — Login de usuário
+
 POST /auth/register — Registro de novo usuário
+
 GET /users — Listar usuários (admin apenas)
+
 PUT /users/:id — Editar usuário (admin apenas)
+
 DELETE /users/:id — Excluir usuário (admin apenas)
 
 ## Considerações
